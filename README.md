@@ -12,7 +12,7 @@ Includes:
 
 NETLIFY:
 
-[LINK]()
+[LINK](https://todo-app-ts-josue-lara.netlify.app/)
 
 ## Screenshots
 
